@@ -25,5 +25,6 @@ function ObjetiveFunction_Jacobian(R)
     end
     J=jacobian(F,varVec);
     matlabFunction(F,'file','objectiveFunction.m');
-    matlabFunction(J,'file','jacobianMatrix.m');    
+    matlabFunction(J,'file','jacobianMatrix.m');   
+    
 end
