@@ -2,10 +2,9 @@
 
 ## Author
 
-Pablo Soto-Quiros (https://www.tec.ac.cr/juan-pablo-soto-quiros) - Email: jusoto@tec.ac.cr
-
-Pablo Soto-Quiros is an Associate Professor from the *Instituto Tecnológico de Costa Rica* (https://www.tec.ac.cr/) in Cartago, Costa Rica
-
+* Pablo Soto-Quiros (https://www.tec.ac.cr/juan-pablo-soto-quiros) - Email: jusoto@tec.ac.cr
+* Geovanni Figueroa-Mata (https://www.tec.ac.cr/geovanni-figueroa-mata) - Email: gfigueroa@tec.ac.cr
+* Nelson Zamora-Villalobos (https://www.tec.ac.cr/nelson-zamora-villalobos) - Email: nzamora@tec.ac.cr
 
 ## Description
 
@@ -19,5 +18,6 @@ Pablo Soto-Quiros is an Associate Professor from the *Instituto Tecnológico de 
 <p align="center"><img width="1200" src="https://github.com/jusotoTEC/reprImgSVD/blob/main/img/img3.png"></p>
   
 <p align="center"><img width="600" src="https://github.com/jusotoTEC/reprImgSVD/blob/main/img/img2.png"></p>
+
 
 
