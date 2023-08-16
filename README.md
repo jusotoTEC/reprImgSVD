@@ -1,6 +1,6 @@
 # MATLAB Code from Numerical Experiments in Paper *"A method for selecting a representative image of a dataset based on the singular value decomposition"*
 
-## Author
+## Authors
 
 * Pablo Soto-Quiros (https://www.tec.ac.cr/juan-pablo-soto-quiros) - Email: jusoto@tec.ac.cr
 * Geovanni Figueroa-Mata (https://www.tec.ac.cr/geovanni-figueroa-mata) - Email: gfigueroa@tec.ac.cr
