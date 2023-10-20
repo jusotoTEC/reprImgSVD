@@ -29,13 +29,13 @@ A2=C(2,:);
 C2=reshape(A2,[256 256 3]);
 subplot(2,2,2)
 imshow(C2)
-title('Representative image')
+title('Centroid')
 %Image close to centroide
 [~,j1]=min(vecnorm((Y1-A1)'));
 Im1=reshape(Y1(j1,:),[256 256 3]);
 subplot(2,2,3)
 imshow(Im1)
-title('Centroid')
+title('Representative image')
 [~,j2]=min(vecnorm((Y2-A2)'));
 Im2=reshape(Y2(j2,:),[256 256 3]);
 subplot(2,2,4)
