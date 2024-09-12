@@ -1,4 +1,4 @@
-# MATLAB Code from Numerical Experiments in Paper *"A method for selecting a representative image of a dataset based on the singular value decomposition"*
+# MATLAB Code for Numerical Experiments in the Paper *"A method for selecting a representative image of a dataset based on the singular value decomposition"*
 
 ## Authors
 
